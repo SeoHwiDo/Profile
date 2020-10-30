@@ -4,8 +4,9 @@
 
 <img src=photo.png width=100 height=100>
 
-#### 서휘도(Hwido-Seo)
+서휘도(Hwido-Seo)
 
+**"새롭고 신기하고 편리하게"** 
 
 * E-mail: baeksa01@hallym.ac.kr
 
@@ -15,15 +16,11 @@
 ****************************
 ## 학력
 
-<p></p>
-
 <img src=kb.png width=100 height=100>서울경복고등학교 졸업-2017.3~2020.2
 >관련 기사: [마지막 사진 앞줄 오른쪽](https://tong.joins.com/archives/45346)
-<p></p>
 
-<img src=hr.png width=100 height=100>한림대학교 소프트웨어융합대학 재학(20년 입학)-2020.3~
+<img src=hr.png width=100 height=100>한림대학교 소프트웨어융합대학 재학-2020.3~
 >관련 기사:  [마지막 사진 검은 옷 체험자](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_1&mm=oxbbs&oxid=1&cpage=1&key=&val=&CAT_ID=0&BID=302&cmd=view)
-<p></p>
 
 ****************************
 ## 프로젝트
@@ -35,23 +32,16 @@ Aduino UNO 보드와 센서 모듈들을 이용하여 온도,습도, 유해가�
 
 <p></p>
 VR,AR기술을 이용한 3D 오픈월드 게임 기획 및 개발
-<p></p>
 
 <img src=MH.png height=100>
 
-<p></p>
 딥러닝 기술을 이용한 개인 맞춤형 비서 프로그램 개발
-<p></p>
 
 <img src=Javis.png height=100>
 
-<p></p>
 반 영구 업그레이드 게임 콘솔 개발
-<p></p>
 
 <img src=PS.png height=100><img src=XBOX.png height=100>
-
-<p></p>
 
 *****************************
 ## ~~사용가능~~ 학습중인 개발도구
@@ -66,13 +56,15 @@ VR,AR기술을 이용한 3D 오픈월드 게임 기획 및 개발
 >1학년 2학기 교양수업
 
 <img src=JSP.png height=100>JSP
->웹서버 구축방법 궁금하여 독학중([github.com/SeoHwiDo/WebServer](https://github.com/SeoHwiDo/WebServer))
+>웹서버 구축방법 궁금하여 독학중
+>>[github.com/SeoHwiDo/WebServer](https://github.com/SeoHwiDo/WebServer)
 
 <img src=python.png height=100>Python
 >1학년 1학기 교양수업(A)
 
 <img src=pytorch.png height=100>Pytorch
->딥러닝 구조및 작동방식이 궁금하고 인공지능을 만들어보고 싶어서 독학([github.com/SeoHwiDo/deep-study](https://github.com/SeoHwiDo/deep-study))
+>딥러닝 구조및 작동방식이 궁금하고 인공지능을 만들어보고 싶어서 독학
+>>[github.com/SeoHwiDo/deep-study](https://github.com/SeoHwiDo/deep-study)
 
 <img src=TensorFlow.png height=100>TensorFlow
 >Pytorch 공부중 알게되어 특강 수강 및 독학
@@ -88,3 +80,5 @@ VR,AR기술을 이용한 3D 오픈월드 게임 기획 및 개발
 
 <img src=jupyter.png  height=100>Jupyter
 >웹서버 구축 공부에 가장 많이 쓰여서 독학
+
+***************************************
