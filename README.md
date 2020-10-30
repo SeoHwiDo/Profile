@@ -59,7 +59,7 @@ VR,AR기술을 이용한 3D 오픈월드 게임 기획 및 개발
 <img src=JAVA.png height=100>JAVA
 >1학년 1,2학기 전공수업(**1학기 A+**)
 
-<img src=javScript.png height=100>javaScript
+<img src=javaScript.png height=100>javaScript
 >1학년 2학기 교양수업
 
 <img src=html.png height=100>html
@@ -74,10 +74,10 @@ VR,AR기술을 이용한 3D 오픈월드 게임 기획 및 개발
 <img src=pytorch.png height=100>Pytorch
 >딥러닝 구조및 작동방식이 궁금하고 인공지능을 만들어보고 싶어서 독학([github.com/SeoHwiDo/deep-study](https://github.com/SeoHwiDo/deep-study))
 
-<img src=TensorFlow.png height=100>ㅆensorFlow
+<img src=TensorFlow.png height=100>TensorFlow
 >Pytorch 공부중 알게되어 특강 수강 및 독학
 
-<img src=C#.png height=100>C#
+<img src=Cs.png height=100>C#
 >Unity 게임개발에 흥미가 있어 독학 및 VRAR교육 특강 수강
 
 <img src=github.png height=100>github
