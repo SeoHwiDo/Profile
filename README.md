@@ -2,7 +2,7 @@
 ****************************
 ## 소개
 
-<img src=photo.png width=100 height=100>
+<img src=photo.png width=500>
 
 서휘도(Hwido-Seo)
 
