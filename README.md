@@ -1,4 +1,5 @@
 # GitHub 이력서 콘테스트 해커톤 
+
 ## 소개
 
 <img src=photo.png width=500>
@@ -24,29 +25,38 @@ Aduino UNO 보드와 센서 모듈들을 이용하여 온도,습도, 유해가�
 ### 창업동아리 "봄내웹" 활동 -2021.8~
 * project "Groad"(임시 명칭)-2021.8~
   >춘천의 순례길 코스를 만들어 춘천 관광객 수를 늘릴 수 있는 관광자원 개발. 이를 위해 관광객들이 춘천의 순례길에 더 쉽게 접근하고 활용 할 수 있도록 도움을 주는 웹사이트 제작 중 사용언어는 프론트엔드로 Vue.js와 vuetify를 이용, 백엔드로는 express 이용. 현재까지 개발 진행중
+  >봄내웹:https://github.com/HL-BomNaeWeb
 ### 개인 스터디 프로젝트
-* Ubuntu server를 활용하여 10년된 가정용 노트북으로 웹사이트 배포. 당시 서버용 노트북으로 "삼성 울트라북5" 사용, 개발 언어는 java와 jsp사용
-
+* Ubuntu server를 활용하여 10년된 가정용 노트북으로 웹사이트 배포. 당시 서버용 노트북으로 "삼성 울트라북5" 사용
+ >개발 이력
+ >서버 구축 공부 :https://github.com/SeoHwiDo/WebServer
+ > 웹페이지 구축 공부:https://github.com/SeoHwiDo/webPage_ubuntu_server
+  
 *  *  *
 ## 사용 가능한 언어
 
-<img src=JAVA.png height=100>JAVA  
+<img src=JAVA.png height=100>JAVA
 
-<img src=javaScript.png height=100>javaScript  
+<img src=javaScript.png height=100>javaScript
 
-<img src=html.png height=100>html  
+<img src=html.png height=100>html
 
-<img src=python.png height=100>Python  
+<img src=python.png height=100>Python
 
 <img src=C.png height=100>C
 
-<img src=C++.png height=100>C++  
+<img src=C++.png height=100>C++
 
-<img src=Cs.png height=100>C#  
+<img src=Cs.png height=100>C#
 
 *  *  *
-<img src=github.png height=100>Github
+## 주로 사용하는 개발도구
 
-<img src=linux.png height=100>linux
+* 버전관리: <img src=github.png height=100>Github
+* 서버 구축: <img src=ubuntu.png height=100>linux ubuntu
+* IDE
+ * Eclipse:java 개발환경
+ * Jupyter Notebook: python 개발환경
+ * Visual Studio Code: 기본 개발환경
 
-***************************************
+
