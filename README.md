@@ -29,7 +29,7 @@ Aduino UNO 보드와 센서 모듈들을 이용하여 온도,습도, 유해가�
 ### 개인 스터디 프로젝트
 * Ubuntu server를 활용하여 10년된 가정용 노트북으로 웹사이트 배포. 당시 서버용 노트북으로 "삼성 울트라북5" 사용
  >개발 이력
- >서버 구축 공부 :https://github.com/SeoHwiDo/WebServer
+ >서버 구축 공부 :https://github.com/SeoHwiDo/WebServer 
  > 웹페이지 구축 공부:https://github.com/SeoHwiDo/webPage_ubuntu_server
   
 *  *  *
