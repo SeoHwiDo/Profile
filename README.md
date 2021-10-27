@@ -63,7 +63,20 @@ Aduino UNO 보드와 센서 모듈들을 이용하여 온도,습도, 유해가�
 
 * IDE
   * Eclipse: <img src=img/eclipse.png height=100> java 개발환경
+  <br>
+
   * Jupyter Notebook:<img src=img/jupyter.png height=100> python 개발환경
+  <br>
+
   * Visual Studio Code: <img src=img/vscode.png height=100> 기본 개발환경
 
+*  *  *
+## 관심 분야
+
+* 게임 개발 프로그래밍
+* 웹을 통한 미디어 콘텐츠 호스팅
+* 웹서버를 이용하여 vscode 구동 및 코딩
+  >참고한 자료
+  > * https://github.com/cdr/code-server.git
+  > * https://hoing.io/archives/4615
 
