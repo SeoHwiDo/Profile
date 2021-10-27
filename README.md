@@ -35,28 +35,28 @@ Aduino UNO 보드와 센서 모듈들을 이용하여 온도,습도, 유해가�
 *  *  *
 ## 사용 가능한 언어
 
-<img src=JAVA.png height=100>JAVA
+<img src=JAVA.png height=100> JAVA
 
-<img src=javaScript.png height=100>javaScript
+<img src=javaScript.png height=100> javaScript
 
-<img src=html.png height=100>html
+<img src=html.png height=100> html
 
-<img src=python.png height=100>Python
+<img src=python.png height=100> Python
 
-<img src=C.png height=100>C
+<img src=C.png height=100> C
 
-<img src=C++.png height=100>C++
+<img src=C++.png height=100> C++
 
-<img src=Cs.png height=100>C#
+<img src=Cs.png height=100> C#
 
 *  *  *
 ## 주로 사용하는 개발도구
 
-* 버전관리: <img src=github.png height=100>Github
-* 서버 구축: <img src=ubuntu.png height=100>linux ubuntu
+* 버전관리: <img src=github.png height=100> Github
+* 서버 구축: <img src=ubuntu.png height=100> linux ubuntu server
 * IDE
- * Eclipse:java 개발환경
- * Jupyter Notebook: python 개발환경
- * Visual Studio Code: 기본 개발환경
+ * Eclipse: <img src=eclipse.png height=100> java 개발환경
+ * Jupyter Notebook:<img src=jupyter.png height=100> python 개발환경
+ * Visual Studio Code: <img src=vscode.png height=100> 기본 개발환경
 
 
