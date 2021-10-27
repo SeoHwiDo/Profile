@@ -47,16 +47,20 @@ Aduino UNO 보드와 센서 모듈들을 이용하여 온도,습도, 유해가�
 
 <img src=img/C++.png height=100> C++
 
-<img src=img/Cs.png height=100> C#
+<img src=img/Cs.png height=100> C#  
+
+<img src=img/vue.png height=100> Vue.js
 
 *  *  *
 ## 주로 사용하는 개발도구
 
 * 버전관리: <img src=img/github.png height=100> Github
+<br>
 * 서버 구축: <img src=img/ubuntu.png height=100> linux ubuntu server
+<br>
 * IDE
- * Eclipse: <img src=img/eclipse.png height=100> java 개발환경
- * Jupyter Notebook:<img src=img/jupyter.png height=100> python 개발환경
- * Visual Studio Code: <img src=img/vscode.png height=100> 기본 개발환경
+  * Eclipse: <img src=img/eclipse.png height=100> java 개발환경
+  * Jupyter Notebook:<img src=img/jupyter.png height=100> python 개발환경
+  * Visual Studio Code: <img src=img/vscode.png height=100> 기본 개발환경
 
 
