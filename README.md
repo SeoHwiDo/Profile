@@ -2,7 +2,7 @@
 
 ## 소개
 
-<img src=photo.png width=500>
+<img src=img/photo.png width=500>
 
 서휘도(Hwido-Seo)
 
@@ -14,8 +14,8 @@
 *  *  *
 ## 학력
 
-<img src=kb.png width=100 height=100 /> 서울경복고등학교 졸업-2017.3\~2020.2  
-<img src=hr.png width=100 height=100 /> 한림대학교 소프트웨어융합대학 콘텐츠 IT 전공(스마트 IoT 복수전공) 재학-2020.3\~
+<img src=img/kb.png width=100 height=100 /> 서울경복고등학교 졸업-2017.3\~2020.2  
+<img src=img/hr.png width=100 height=100 /> 한림대학교 소프트웨어융합대학 콘텐츠 IT 전공(스마트 IoT 복수전공) 재학-2020.3\~
 *  *  *
 ## 프로젝트
 ### IoT제품 개발 프로젝트-2018.3~10
@@ -35,28 +35,28 @@ Aduino UNO 보드와 센서 모듈들을 이용하여 온도,습도, 유해가�
 *  *  *
 ## 사용 가능한 언어
 
-<img src=JAVA.png height=100> JAVA
+<img src=img/JAVA.png height=100> JAVA
 
-<img src=javaScript.png height=100> javaScript
+<img src=img/javaScript.png height=100> javaScript
 
-<img src=html.png height=100> html
+<img src=img/html.png height=100> html
 
-<img src=python.png height=100> Python
+<img src=img/python.png height=100> Python
 
-<img src=C.png height=100> C
+<img src=img/C.png height=100> C
 
-<img src=C++.png height=100> C++
+<img src=img/C++.png height=100> C++
 
-<img src=Cs.png height=100> C#
+<img src=img/Cs.png height=100> C#
 
 *  *  *
 ## 주로 사용하는 개발도구
 
-* 버전관리: <img src=github.png height=100> Github
-* 서버 구축: <img src=ubuntu.png height=100> linux ubuntu server
+* 버전관리: <img src=img/github.png height=100> Github
+* 서버 구축: <img src=img/ubuntu.png height=100> linux ubuntu server
 * IDE
- * Eclipse: <img src=eclipse.png height=100> java 개발환경
- * Jupyter Notebook:<img src=jupyter.png height=100> python 개발환경
- * Visual Studio Code: <img src=vscode.png height=100> 기본 개발환경
+ * Eclipse: <img src=img/eclipse.png height=100> java 개발환경
+ * Jupyter Notebook:<img src=img/jupyter.png height=100> python 개발환경
+ * Visual Studio Code: <img src=img/vscode.png height=100> 기본 개발환경
 
 
